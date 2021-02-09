@@ -1,4 +1,4 @@
-# 1.Fancy-Printing
+# 1. Fancy-Printing
 
 Write a C program which prints the output given below.
 
