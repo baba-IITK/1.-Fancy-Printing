@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+
+{
+    printf("\"ESC\"-\'101\\A\'");
+    return 0;
+}
